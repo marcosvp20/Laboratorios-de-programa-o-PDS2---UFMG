@@ -1,0 +1,26 @@
+Não foi possível realizar a operação: Dicionário vazio
+Não foi possível realizar a operação: A chave inexistente não está no dicionário
+Não foi possível realizar a operação: A chave inexistente não está no dicionário
+Não foi possível realizar a operação: A chave inexistente já está no dicionário
+Não foi possível realizar a operação: A chave repetida não está no dicionário
+Não foi possível realizar a operação: A chave repetida não está no dicionário
+4
+sim
+não
+não
+sim
+2
+2
+3
+5
+6
+jose
+1
+jose
+0
+Não foi possível realizar a operação: Dicionário vazio
+Não foi possível realizar a operação: A chave inexistente não está no dicionário
+Não foi possível realizar a operação: A chave inexistente não está no dicionário
+Não foi possível realizar a operação: A chave inexistente já está no dicionário
+Não foi possível realizar a operação: A chave repetida não está no dicionário
+Não foi possível realizar a operação: A chave repetida não está no dicionário

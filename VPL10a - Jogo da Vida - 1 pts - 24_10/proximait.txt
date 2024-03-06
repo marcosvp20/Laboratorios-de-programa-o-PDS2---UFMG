@@ -1,0 +1,23 @@
+void JogoDaVida::ExecutarProximaIteracao()
+{
+
+    for (int i = 0; i < vivas_.size(); i++)
+    {
+        for (int j = 0; j < vivas_[0].size(); j++)
+        { int num = NumeroDeVizinhasVivas(i,j);
+
+            if (vivas_[i][j] && NumeroDeVizinhasVivas(i, j) <= 1)
+            {
+                vivas_[i][j] = false;
+            }
+            else if (vivas_[i][j] && NumeroDeVizinhasVivas(i, j) > 3)
+            {
+                vivas_[i][j] = false;
+            }
+            else if (!vivas_[i][j] && NumeroDeVizinhasVivas(i, j) == 3)
+            {
+                vivas_[i][j] = true;
+            }
+        }
+    }
+}
